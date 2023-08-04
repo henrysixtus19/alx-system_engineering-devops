@@ -1,2 +1,2 @@
-3-new_owner
+#!/bin/bash
 sudo chow betty hello
